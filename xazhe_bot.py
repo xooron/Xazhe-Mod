@@ -36,7 +36,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "PUT_YOUR_TOKEN_HERE")
 CHANNEL_USERNAME = "@catcaslno"              # для проверки подписки
 CHANNEL_URL = "https://t.me/catcaslno"       # кнопка «Подписаться»
 
-SUPPORT_URL = "https://t.me/your_support"    # кнопка «Поддержка» — замените на свою
+SUPPORT_URL = "https://t.me/xazhe"    # кнопка «Поддержка» — замените на свою
 
 IOS_DOWNLOAD_URL = "https://wertigo.ru/shared-files/99448e95-5429-4efb-8b02-905b156461c6"
 ANDROID_DOWNLOAD_URL = "https://wertigo.ru/shared-files/c3cdc42f-21b7-4b8c-bb74-a0462c24d3dc"
